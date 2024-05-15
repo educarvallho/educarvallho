@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 About me:
 - 🔥 Data Science and Software Engineering Student from Brazil
-- 🌱 I'm participating in a Bootcamp at [@Ada-Tech-Br](https://github.com/Ada-Tech-Br)
+- 🌱 I finished a Bootcamp and Hackathon at [@Ada-Tech-Br](https://github.com/Ada-Tech-Br) in partnership with [@iFood](https://github.com/ifood)
 - ⛏️ I worked with Mine Planning for 12 years
 - 💹 Passionate about the Financial Market
