@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### 🧩 Sobre mim:
 
-Estudante de Engenharia de Software na reta final da graduação. Previsão de término para Setembro de 2025.
+Engenhario de Software e ideializador do OakQuant - Finanças Quantitativas.
 
-- 🔥 Estudante de Ciência de Dados e Engenharia de Software <br>
+- 🔥 Eterno estudante de Ciência de Dados e Engenharia de Software <br>
 - 🌱 Concluí um Bootcamp e um Hackathon na [@Ada-Tech-Br](https://github.com/Ada-Tech-Br) em parceria com o [@iFood](https://github.com/ifood) <br>
 - ⛏️ Trabalhei com Planejamento de Mina por 12 anos <br>
 - 💼 Trabalhei na Área Comercial (Vendas e Investimentos) por 3 anos <br>
@@ -27,8 +27,8 @@ Estudante de Engenharia de Software na reta final da graduação. Previsão de t
 
 ### 🎯 Objetivo:
 
-Estou motivado a aprofundar meus conhecimentos em tecnologias e me tornar um Ciêntista de Dados.<br>
-Tenho interesse em áreas como Cloud, Machine Learning e DevOps.
+Estou motivado a aprofundar meus conhecimentos em tecnologias e fazer coisas ainda mais incríveis.<br>
+Tenho interesse em áreas como Back-end, Cloud, Machine Learning e DevOps.
 
 ### ⚒️ Algumas Tecnologias que Utilizo:
 
